@@ -39,5 +39,5 @@ function votingAge(age) {
   }
 }
 
-let userInput = prompt("What is your age?");
-votingAge(userInput);
+let userInput2 = prompt("What is your age?");
+votingAge(userInput2);
